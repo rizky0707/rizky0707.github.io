@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+[Image](https://avatars.githubusercontent.com/u/39933173?v=4)
+## Welcome to Portofolio
 
 You can use the [editor on GitHub](https://github.com/rizky0707/rizky0707.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, Portofolio will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
