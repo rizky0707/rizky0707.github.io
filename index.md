@@ -1,4 +1,4 @@
-![Image](https://avatars.githubusercontent.com/u/39933173?v=4)
+![Image](https://pbs.twimg.com/profile_images/981529040405217280/iZTX4XlN_400x400.jpg)
 ## Welcome to Portofolio
 
 You can use the [editor on GitHub](https://github.com/rizky0707/rizky0707.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
