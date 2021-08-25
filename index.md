@@ -1,4 +1,4 @@
-![Image](https://instagram.fbdo7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/125426788_192347075664906_5644988810827194074_n.jpg?_nc_ht=instagram.fbdo7-1.fna.fbcdn.net&_nc_ohc=iotSyaQ0IiQAX-hM8wK&edm=ABfd0MgBAAAA&ccb=7-4&oh=e10fbc9d53ed74cd870c91ad6fcaad87&oe=612DC1C7&_nc_sid=7bff83)
+![Image](https://instagram.fbdo7-1.fna.fbcdn.net/v/t51.2885-15/e35/139481589_2816526348616221_8832760494494248254_n.jpg?_nc_ht=instagram.fbdo7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=1ATCozrPw3YAX_nGGiu&tn=HW_gv2_gy5PmKgIJ&edm=AP_V10EBAAAA&ccb=7-4&oh=fde2cf2525ca8cb13933f17f1d2a9a27&oe=612D4E69&_nc_sid=4f375e)
 ## Welcome to Hey
 
 You can use the [editor on GitHub](https://github.com/rizky0707/rizky0707.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
